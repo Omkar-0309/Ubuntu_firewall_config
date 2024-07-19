@@ -1,6 +1,3 @@
-# Ubuntu_Firewall_config
-Enabling and configuring a Firewall on Kali Linux
-
 # Configuring a Firewall on Ubuntu or any Linux Distribution
 
 ## Project Overview
