@@ -1,7 +1,7 @@
 # Ubuntu_Firewall_config
 Enabling and configuring a Firewall on Kali Linux
 
-# Configuring a Firewall on Kali Linux
+# Configuring a Firewall on Ubuntu or any Linux Distribution
 
 ## Project Overview
 This project involves implementing and configuring a robust firewall on a Kali Linux virtual machine to enhance system security. The `ufw` (Uncomplicated Firewall) was utilized for firewall management, and network scans were performed using Nmap to verify the effectiveness of the firewall rules.
